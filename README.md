@@ -15,7 +15,5 @@ After graduating from university, I had a short goodbye with Data Science. Now I
 ### 2. Human Resources Analytics
 -  This projects focuses on using Data Science and Machine Learning techniques for HR tasks. It is one of the topical problems of a good HR manager to be well familiar with modern smart tools helping to manage large data flows and automate the recruitment process. Thus, many companies are leveraging information on performance, engagement, retention, recruitment process, and employees’ satisfaction to facilitate the decision-making process..
 ### 3. Customer Segmentation
--  Customer Segmentation is the process of division of customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits.
-### 4. Health Service
-### 5. Energy Management
+-  Customer Segmentation is the process of division of customer base into several groups of individuals that share a similarity in different ways that are relevant to marketing such as gender, age, interests, and miscellaneous spending habits. 
 
